@@ -1,0 +1,9 @@
+{
+  "{{ project_name }}.sample_id": "{{ sample_id }}",
+  "{{ project_name }}.fastq1": "{{ fastq1 }}",
+  "{{ project_name }}.fastq2": "{{ fastq2 }}",
+  "{{ project_name }}.subsampling_rate": "{{ subsampling_rate }}",
+  "{{ project_name }}.docker": "{{ docker }}",
+  "{{ project_name }}.disk_size": "{{ disk_size }}",
+  "{{ project_name }}.cluster_config": "{{ cluster_config }}"
+}
