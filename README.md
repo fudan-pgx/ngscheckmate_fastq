@@ -26,3 +26,6 @@ $ choppy query -L project:Label | grep "status"
 The samples.csv contains at least 3 columns: sample_id, fastq1, fastq2.
 #### other parameters
 - subsampling_rate: The default subsampling rate is 1. The speed is not very slow.
+
+### Reference
+> https://github.com/parklab/NGSCheckMate
